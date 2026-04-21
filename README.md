@@ -21,7 +21,8 @@ Bibliotecas padrão do Python:
 ```sys```
 
 ## 📄 Exemplo de saída
-```Name: João Silva
+```
+Name: João Silva
 Username: joao_silva
 Password: @K9d!sL2pQx1
 Email: joao.silva@gmail.com
